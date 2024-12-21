@@ -1,0 +1,17 @@
+微软 DCF 模型估值报告 (Microsoft DCF Valuation Report)
+==================================================
+DCF 模型估值: 5.12e+11 USD
+当前市场价格: 2.50e+12 USD
+结论: 可能被高估 (Potentially Overvalued)
+==================================================
+预测未来自由现金流 (Predicted Future Free Cash Flow):
+ Year  Free Cash Flow  Predicted FCF
+ 2024    7.407100e+10            NaN
+ 2023    5.947500e+10            NaN
+ 2022    6.514900e+10            NaN
+ 2021    5.611800e+10            NaN
+ 2025             NaN   5.115878e+10
+ 2026             NaN   4.663781e+10
+ 2027             NaN   4.251637e+10
+ 2028             NaN   3.875914e+10
+ 2029             NaN   3.533395e+10
