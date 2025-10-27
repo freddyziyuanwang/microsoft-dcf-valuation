@@ -14,7 +14,7 @@ This repository contains a Discounted Cash Flow (DCF) valuation model for Micros
 - `microsoft_valuation_report.txt`: Detailed valuation report
 
 ## Results
-- **DCF Valuation**: [Insert your calculated value]
+- **DCF Valuation**: [Insert our calculated value]
 - **Current Market Price**: $2.5 trillion
 - **Conclusion**: [Undervalued/Overvalued/Fairly Valued]
 
